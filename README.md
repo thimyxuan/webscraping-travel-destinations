@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/webscraping-travel-destinations.git```
+```$ git clone https://github.com/thimyxuan/webscraping-travel-destinations.git```
 
 ## Dépendances
 
