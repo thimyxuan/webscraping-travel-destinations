@@ -50,3 +50,4 @@ PARTIE 4 - Mise à disposition des données
 - Enregistrement dans un S3 bucket (datalake)
 - Création de la base de données PostGreSQL
 - Enregistrement dans AWS RDS (datawarehouse)
+- Test de requêtes SQL
