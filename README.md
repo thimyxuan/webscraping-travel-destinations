@@ -16,6 +16,9 @@ Pour utiliser ce projet vous aurez besoin d'installer les librairies ci-dessous.
 - Requests
 - Scrapy
 - Plotly
+- Boto3
+- Sqlalchemy
+- Psycopg2
 
 ## Sujet
 
